@@ -1,0 +1,69 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\orcus\\RiderProjects\\WeightWatcherApp\\WeightWatcherApp\\WeightWatcherApp.csproj",
+    "projectName": "WeightWatcherApp",
+    "projectPath": "C:\\Users\\orcus\\RiderProjects\\WeightWatcherApp\\WeightWatcherApp\\WeightWatcherApp.csproj",
+    "outputPath": "C:\\Users\\orcus\\RiderProjects\\WeightWatcherApp\\WeightWatcherApp\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.2"
+    ],
+    "frameworks": {
+      "netcoreapp2.2": {
+        "projectReferences": {
+          "C:\\Users\\orcus\\RiderProjects\\WeightWatcherApp\\WeightWatcherApp.Core\\WeightWatcherApp.Core.csproj": {
+            "projectPath": "C:\\Users\\orcus\\RiderProjects\\WeightWatcherApp\\WeightWatcherApp.Core\\WeightWatcherApp.Core.csproj"
+          },
+          "C:\\Users\\orcus\\RiderProjects\\WeightWatcherApp\\WeightWatcherApp.Infrastructure\\WeightWatcherApp.Infrastructure.csproj": {
+            "projectPath": "C:\\Users\\orcus\\RiderProjects\\WeightWatcherApp\\WeightWatcherApp.Infrastructure\\WeightWatcherApp.Infrastructure.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.2": {
+      "dependencies": {
+        "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+          "target": "Package",
+          "version": "[6.1.0, )"
+        },
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.2.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.2.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

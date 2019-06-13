@@ -1,0 +1,14 @@
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\bin\Debug\netcoreapp2.2\WeightWatcherApp.Core.deps.json
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\bin\Debug\netcoreapp2.2\WeightWatcherApp.Core.dll
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\bin\Debug\netcoreapp2.2\WeightWatcherApp.Core.pdb
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\bin\Debug\netcoreapp2.2\WeightWatcherApp.Contract.dll
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\bin\Debug\netcoreapp2.2\WeightWatcherApp.Infrastructure.dll
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\bin\Debug\netcoreapp2.2\WeightWatcherApp.Contract.pdb
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\bin\Debug\netcoreapp2.2\WeightWatcherApp.Infrastructure.pdb
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\obj\Debug\netcoreapp2.2\WeightWatcherApp.Core.csprojAssemblyReference.cache
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\obj\Debug\netcoreapp2.2\WeightWatcherApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\obj\Debug\netcoreapp2.2\WeightWatcherApp.Core.AssemblyInfoInputs.cache
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\obj\Debug\netcoreapp2.2\WeightWatcherApp.Core.AssemblyInfo.cs
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\obj\Debug\netcoreapp2.2\WeightWatcherApp.Core.csproj.CopyComplete
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\obj\Debug\netcoreapp2.2\WeightWatcherApp.Core.dll
+C:\Users\orcus\RiderProjects\WeightWatcherApp\WeightWatcherApp.Core\obj\Debug\netcoreapp2.2\WeightWatcherApp.Core.pdb
