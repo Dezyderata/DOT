@@ -25,17 +25,6 @@ namespace WeightWatcherApp.Infrastructure.Repository
                     .Where(x => x.Id == id)
                     .SingleOrDefaultAsync();
                 await _weightWatcherContext.Entry(user).Collection(x => x.Measurements).LoadAsync();
-                Console.Out.WriteLine("-------------------------------");
-                foreach (var x in user.Measurements)
-                {
-                    Console.Out.WriteLine("**********");
-                    Console.Out.WriteLine(x.Weight);
-                    Console.Out.WriteLine("**********");
-                }
-                Console.Out.WriteLine("-------------------------------");
-
-
-
                 return user;
             }
 

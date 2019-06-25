@@ -57,8 +57,6 @@ namespace WeightWatcherApp.Controllers
             {
                 return BadRequest();
             }
-            Console.Out.WriteLine("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-            Console.Out.WriteLine(measurementDto.Weight);
             var userDto = await _userService.GetById(id);
             if (userDto == null)
             {
@@ -75,8 +73,6 @@ namespace WeightWatcherApp.Controllers
             {
                 return BadRequest();
             }
-            Console.Out.WriteLine("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
-            Console.Out.WriteLine(user.FirstName);
 
             await _userService.Update(user);
             return Ok($"User updated");
